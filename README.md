@@ -12,9 +12,7 @@
 )](https://www.linkedin.com/in/icaroapolo)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=https://api.whatsapp.com/send?phone=5512981434005&text=Ol%C3%A1%20%C3%8Dcaro%2C%20tudo%20certo%3F)](https://api.whatsapp.com/send?phone=https://api.whatsapp.com/send?phone=5512981434005&text=Ol%C3%A1%20%C3%8Dcaro%2C%20tudo%20certo%3F)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apoloraci@gmail.com)](mailto:apoloraci@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/icaro.apolo/)](https://www.instagram.com/icaro.apolo/)
-
-	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/icaro.apolo)](https://www.instagram.com/icaro.apolo)
  
 > “The worst thing I can be is the same as everyone else. I hate that." 
 ― Arnold Schwarzenegger
